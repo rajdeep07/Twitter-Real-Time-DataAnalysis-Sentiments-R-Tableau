@@ -29,10 +29,10 @@ library(ggmap)
 library(wordcloud)
 
 ### Establishing A Connection - Direct Method
-key="SSWqihylZi4B9bLiT7KGQVBlf"
-secret="pY1GRXw9Nl2gbM00Gf8AdBeAyNsgTwXe1BPhAN28g19Qc9eYZo"
-atoken = "966568404239945731-mO5mYJOK1SXQYe7B4pa0umLHbd3nTr9"
-asecret = "hkR5kGcYSLKeLDuBQOobW1nCOlBRhTFUCE3c5rMy3nvDE"
+key="SS*****************f"
+secret="p*****************************Zo"
+atoken = "9*************************************9"
+asecret = "hkR5************************************DE"
 
 setup_twitter_oauth(key, secret, atoken, asecret)
 
